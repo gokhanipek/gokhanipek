@@ -7,7 +7,7 @@ Frontend Developer
 I am a Frontend Developer.
 
 * 🌍  I'm based in Karlsruhe, Germany
-* ✉️  You can contact me at [g.ipek at outlook.com](mailto:g.ipek at outlook.com)
+* ✉️  You can contact me via [g.ipek at outlook.com]
 * 🧠  I'm learning Three.js, still learning.
 
 <a href="https://www.twitter.com/gipek03" target="_blank" rel="noreferrer"><img
